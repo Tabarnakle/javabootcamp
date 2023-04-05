@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2023-04-05T22:34:28.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="HBLmk2x-iiqNN-QofeyB" version="21.1.4" type="device">
+  <diagram name="Page-1" id="_xRlhJNUNhRyz033zmMd">
+    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QCNOmcoSpb7laxyi0cw--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--1" value="Fin Resistencia.java" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--5" target="QCNOmcoSpb7laxyi0cw--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--5" value="Ingresa resistencias r1, r2, r3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--6" target="QCNOmcoSpb7laxyi0cw--5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="700" />
+              <mxPoint x="600" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--6" target="QCNOmcoSpb7laxyi0cw--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--6" value="r es &amp;gt; a 0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="675" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--12" value="Calcula resistencia total" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCNOmcoSpb7laxyi0cw--16" target="QCNOmcoSpb7laxyi0cw--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCNOmcoSpb7laxyi0cw--16" value="Inicio Resistencia.java" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
