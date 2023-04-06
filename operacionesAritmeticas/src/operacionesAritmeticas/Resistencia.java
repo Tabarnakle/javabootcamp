@@ -33,7 +33,7 @@ public class Resistencia {
 
 		float resistenciaTotal = 1 / ((1 / r1) + (1 / r2) + (1 / r3));
 
-		System.out.printf("La resistencia total es: %.2f", resistenciaTotal);
+		System.out.printf("La resistencia total es de %.2f", resistenciaTotal);
 		input.close();
 	}
 
